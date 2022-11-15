@@ -1,1 +1,1 @@
-# Elektroparowoz
+Util classes for mql projects
